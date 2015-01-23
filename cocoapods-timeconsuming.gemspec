@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["chenyan.mnn@taobao.com"]
   spec.summary       = 'pod install 耗时统计'
   spec.description   = 'pod install 各阶段及总耗时统计'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/mahaiyannn/cocoapods-timeconsuming"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*.rb"]
